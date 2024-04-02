@@ -1,0 +1,5 @@
+.venv
+.idea
+docs/build
+docs/source/hartree_fock.rst
+docs/source/modules.rst
